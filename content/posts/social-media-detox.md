@@ -1,5 +1,5 @@
 +++
-title = "I Quit Social Media for 90 Days — Here's What Nobody Tells You"
+title = "I Quit Social Media for 90 Days ; Here's What Nobody Tells You"
 date = 2026-07-08
 draft = false
 tags = ["mental-health", "lifestyle", "social-media", "productivity"]

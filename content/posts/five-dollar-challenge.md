@@ -1,5 +1,5 @@
 +++
-title = "I Lived on $5 a Day for 30 Days — Here's What I Learned"
+title = "I Lived on $5 a Day for 30 Days ; Here's What I Learned"
 date = 2026-07-01
 draft = false
 tags = ["finance", "lifestyle", "budgeting", "challenge"]

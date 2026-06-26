@@ -1,5 +1,5 @@
 +++
-title = "I Decorated My Entire Apartment for $150 — Full Photo Breakdown"
+title = "I Decorated My Entire Apartment for $150 ; Full Photo Breakdown"
 date = 2026-07-06
 draft = false
 tags = ["home-decor", "budgeting", "diy", "lifestyle"]

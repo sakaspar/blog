@@ -1,5 +1,5 @@
 +++
-title = "ChatGPT Made Me $1,000 in One Week — Here's the Exact Method"
+title = "ChatGPT Made Me $1,000 in One Week ; Here's the Exact Method"
 date = 2026-07-10
 draft = false
 tags = ["ai", "tech", "money", "chatgpt"]

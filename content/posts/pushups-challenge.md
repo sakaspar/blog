@@ -1,5 +1,5 @@
 +++
-title = "I Did 100 Push-Ups Every Day for 60 Days — My Body Before and After"
+title = "I Did 100 Push-Ups Every Day for 60 Days ; My Body Before and After"
 date = 2026-07-03
 draft = false
 tags = ["fitness", "health", "challenge", "transformation"]
