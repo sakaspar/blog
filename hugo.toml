@@ -31,7 +31,7 @@ enableRobotsTXT = true
   imageUrl = "images/avatar.jpg"
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "Hamza"
+  imageTitle = "DotKsp"
 
 
 [params.assets]
