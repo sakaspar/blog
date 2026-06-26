@@ -11,8 +11,8 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 [cover]
-  image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
-  alt = "Bitcoin logo"
+  image = "https://www.cointribune.com/app/uploads/2025/03/IMG_2991.jpeg"
+  alt = "$BTC"
   caption = "The godfather of crypto"
   relative = false
 +++
