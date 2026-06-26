@@ -25,7 +25,7 @@ enableRobotsTXT = true
   url = "https://x.com/Kasper_0927"
 
 [params.profileMode]
-  enabled = true
+  enabled = false
   title = "DotKsp Writings"
   subtitle = "The map they don't hand out."
   imageUrl = "images/avatar.jpg"
