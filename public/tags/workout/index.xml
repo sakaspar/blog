@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Workout on DotKsp Writings</title>
-    <link>http://localhost:55558/blog/tags/workout/</link>
+    <link>http://localhost:1313/blog/tags/workout/</link>
     <description>Recent content in Workout on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/tags/workout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/workout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The No-Excuse Home Workout: Zero Equipment, Maximum Results</title>
-      <link>http://localhost:55558/blog/posts/home-workout/</link>
+      <link>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/home-workout/</guid>
+      <guid>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</guid>
       <description>No gym membership. No equipment. No excuses. A complete bodyweight routine you can do in your living room.</description>
     </item>
   </channel>

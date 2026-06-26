@@ -121,10 +121,29 @@
     });
   }
 
+  /* ── Image lazy loading polyfill ─────────────────────── */
+  function initImageLazyLoad() {
+    if ("loading" in HTMLImageElement.prototype) return;
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          var img = entry.target;
+          img.src = img.dataset.src;
+          img.removeAttribute("data-src");
+          observer.unobserve(img);
+        }
+      });
+    });
+    document.querySelectorAll("img[loading='lazy']").forEach(function (img) {
+      if (img.dataset.src) observer.observe(img);
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     initCategoryFilter();
     initScrollReveal();
     initReadingProgress();
     initBackToTop();
+    initImageLazyLoad();
   });
 })();

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Budget on DotKsp Writings</title>
-    <link>http://localhost:55558/blog/tags/budget/</link>
+    <link>http://localhost:1313/blog/tags/budget/</link>
     <description>Recent content in Budget on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/tags/budget/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/budget/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Skincare Routine That Cleared My Skin in 3 Weeks (Under $30)</title>
-      <link>http://localhost:55558/blog/posts/skincare-routine/</link>
+      <link>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/skincare-routine/</guid>
+      <guid>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</guid>
       <description>Stop buying $100 serums. Your skin doesn&amp;#39;t need luxury : it needs consistency and chemistry.</description>
     </item>
   </channel>

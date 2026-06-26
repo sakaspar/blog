@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lifestyle on DotKsp Writings</title>
-    <link>http://localhost:55558/blog/categories/lifestyle/</link>
+    <link>http://localhost:1313/blog/categories/lifestyle/</link>
     <description>Recent content in Lifestyle on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Skincare Routine That Cleared My Skin in 3 Weeks (Under $30)</title>
-      <link>http://localhost:55558/blog/posts/skincare-routine/</link>
+      <link>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/skincare-routine/</guid>
+      <guid>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</guid>
       <description>Stop buying $100 serums. Your skin doesn&amp;#39;t need luxury : it needs consistency and chemistry.</description>
     </item>
     <item>
       <title>I Quit Social Media for 90 Days ; Here&#39;s What Nobody Tells You</title>
-      <link>http://localhost:55558/blog/posts/social-media-detox/</link>
+      <link>http://localhost:1313/blog/i-quit-social-media-for-90-days-heres-what-nobody-tells-you/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/social-media-detox/</guid>
+      <guid>http://localhost:1313/blog/i-quit-social-media-for-90-days-heres-what-nobody-tells-you/</guid>
       <description>I deleted every app for three months. I didn&amp;#39;t find &amp;#39;inner peace&amp;#39; immediately : I found something much more uncomfortable.</description>
     </item>
     <item>
       <title>I Decorated My Entire Apartment for $150 ; Full Photo Breakdown</title>
-      <link>http://localhost:55558/blog/posts/apartment-decor-budget/</link>
+      <link>http://localhost:1313/blog/i-decorated-my-entire-apartment-for-150-full-photo-breakdown/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/apartment-decor-budget/</guid>
+      <guid>http://localhost:1313/blog/i-decorated-my-entire-apartment-for-150-full-photo-breakdown/</guid>
       <description>You don&amp;#39;t need a designer budget to have a designer space. Here is how I did it for the price of one night out.</description>
     </item>
     <item>
       <title>I Lived on $5 a Day for 30 Days ; Here&#39;s What I Learned</title>
-      <link>http://localhost:55558/blog/posts/five-dollar-challenge/</link>
+      <link>http://localhost:1313/blog/i-lived-on-5-a-day-for-30-days-heres-what-i-learned/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/five-dollar-challenge/</guid>
+      <guid>http://localhost:1313/blog/i-lived-on-5-a-day-for-30-days-heres-what-i-learned/</guid>
       <description>I lived on $5 a day for a month. It wasn&amp;#39;t about the money : it was about the control.</description>
     </item>
   </channel>

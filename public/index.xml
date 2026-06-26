@@ -2,95 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DotKsp Writings</title>
-    <link>http://localhost:55558/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT Made Me $1,000 in One Week ; Here&#39;s the Exact Method</title>
-      <link>http://localhost:55558/blog/posts/chatgpt-money-making/</link>
+      <link>http://localhost:1313/blog/chatgpt-made-me-1000-in-one-week-heres-the-exact-method/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/chatgpt-money-making/</guid>
+      <guid>http://localhost:1313/blog/chatgpt-made-me-1000-in-one-week-heres-the-exact-method/</guid>
       <description>Everyone is talking about AI. Very few are actually using it to generate revenue. Here is how I did it.</description>
     </item>
     <item>
       <title>The Skincare Routine That Cleared My Skin in 3 Weeks (Under $30)</title>
-      <link>http://localhost:55558/blog/posts/skincare-routine/</link>
+      <link>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/skincare-routine/</guid>
+      <guid>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</guid>
       <description>Stop buying $100 serums. Your skin doesn&amp;#39;t need luxury : it needs consistency and chemistry.</description>
     </item>
     <item>
       <title>I Quit Social Media for 90 Days ; Here&#39;s What Nobody Tells You</title>
-      <link>http://localhost:55558/blog/posts/social-media-detox/</link>
+      <link>http://localhost:1313/blog/i-quit-social-media-for-90-days-heres-what-nobody-tells-you/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/social-media-detox/</guid>
+      <guid>http://localhost:1313/blog/i-quit-social-media-for-90-days-heres-what-nobody-tells-you/</guid>
       <description>I deleted every app for three months. I didn&amp;#39;t find &amp;#39;inner peace&amp;#39; immediately : I found something much more uncomfortable.</description>
     </item>
     <item>
       <title>The No-BS Guide to Starting a Side Hustle in 2026 With Zero Money</title>
-      <link>http://localhost:55558/blog/posts/side-hustle-guide/</link>
+      <link>http://localhost:1313/blog/the-no-bs-guide-to-starting-a-side-hustle-in-2026-with-zero-money/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/side-hustle-guide/</guid>
+      <guid>http://localhost:1313/blog/the-no-bs-guide-to-starting-a-side-hustle-in-2026-with-zero-money/</guid>
       <description>You don&amp;#39;t need venture capital. You don&amp;#39;t need a fancy office. You just need a skill and an internet connection.</description>
     </item>
     <item>
       <title>I Decorated My Entire Apartment for $150 ; Full Photo Breakdown</title>
-      <link>http://localhost:55558/blog/posts/apartment-decor-budget/</link>
+      <link>http://localhost:1313/blog/i-decorated-my-entire-apartment-for-150-full-photo-breakdown/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/apartment-decor-budget/</guid>
+      <guid>http://localhost:1313/blog/i-decorated-my-entire-apartment-for-150-full-photo-breakdown/</guid>
       <description>You don&amp;#39;t need a designer budget to have a designer space. Here is how I did it for the price of one night out.</description>
     </item>
     <item>
       <title>Why Everything You Know About Saving Money Is Wrong</title>
-      <link>http://localhost:55558/blog/posts/saving-money-myths/</link>
+      <link>http://localhost:1313/blog/why-everything-you-know-about-saving-money-is-wrong/</link>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/saving-money-myths/</guid>
+      <guid>http://localhost:1313/blog/why-everything-you-know-about-saving-money-is-wrong/</guid>
       <description>The &amp;#39;latte factor&amp;#39; is a lie. Saving pennies won&amp;#39;t make you rich. Here is the truth about wealth.</description>
     </item>
     <item>
       <title>17 Things Successful People Do Before 8AM (Backed by Research)</title>
-      <link>http://localhost:55558/blog/posts/successful-habits/</link>
+      <link>http://localhost:1313/blog/17-things-successful-people-do-before-8am-backed-by-research/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/successful-habits/</guid>
+      <guid>http://localhost:1313/blog/17-things-successful-people-do-before-8am-backed-by-research/</guid>
       <description>Success isn&amp;#39;t an accident : it&amp;#39;s a series of choices made before the world starts screaming for your attention.</description>
     </item>
     <item>
       <title>I Did 100 Push-Ups Every Day for 60 Days ; My Body Before and After</title>
-      <link>http://localhost:55558/blog/posts/pushups-challenge/</link>
+      <link>http://localhost:1313/blog/i-did-100-push-ups-every-day-for-60-days-my-body-before-and-after/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/pushups-challenge/</guid>
+      <guid>http://localhost:1313/blog/i-did-100-push-ups-every-day-for-60-days-my-body-before-and-after/</guid>
       <description>Sixty days. 6,000 push-ups. Here is what happened to my body : and my mind.</description>
     </item>
     <item>
       <title>The Morning Routine Nobody Talks About (That Actually Works)</title>
-      <link>http://localhost:55558/blog/posts/morning-routine/</link>
+      <link>http://localhost:1313/blog/the-morning-routine-nobody-talks-about-that-actually-works/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/morning-routine/</guid>
+      <guid>http://localhost:1313/blog/the-morning-routine-nobody-talks-about-that-actually-works/</guid>
       <description>Forget the 4 AM cold plunges and the 20-step skincare. This is the simple, contrarian routine that actually moves the needle.</description>
     </item>
     <item>
       <title>I Lived on $5 a Day for 30 Days ; Here&#39;s What I Learned</title>
-      <link>http://localhost:55558/blog/posts/five-dollar-challenge/</link>
+      <link>http://localhost:1313/blog/i-lived-on-5-a-day-for-30-days-heres-what-i-learned/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/five-dollar-challenge/</guid>
+      <guid>http://localhost:1313/blog/i-lived-on-5-a-day-for-30-days-heres-what-i-learned/</guid>
       <description>I lived on $5 a day for a month. It wasn&amp;#39;t about the money : it was about the control.</description>
     </item>
     <item>
       <title>Bitcoin at $30K–$40K: Why the Bear Market Is the Real Opportunity</title>
-      <link>http://localhost:55558/blog/posts/digital-gold/</link>
+      <link>http://localhost:1313/blog/bitcoin-at-30k40k-why-the-bear-market-is-the-real-opportunity/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/digital-gold/</guid>
+      <guid>http://localhost:1313/blog/bitcoin-at-30k40k-why-the-bear-market-is-the-real-opportunity/</guid>
       <description>BTC isn&amp;#39;t just another crypto : it&amp;#39;s the godfather. And if it drops to $30K–$40K, here&amp;#39;s why that&amp;#39;s not a crisis. It&amp;#39;s an invitation.</description>
     </item>
     <item>
       <title>The No-Excuse Home Workout: Zero Equipment, Maximum Results</title>
-      <link>http://localhost:55558/blog/posts/home-workout/</link>
+      <link>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/home-workout/</guid>
+      <guid>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</guid>
       <description>No gym membership. No equipment. No excuses. A complete bodyweight routine you can do in your living room.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>Learn more about DotKsp — the person behind the essays on money, health, tech, and the habits that actually stick.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/blog/contact/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/contact/</guid>
+      <description>Get in touch with DotKsp. Questions, feedback, or collaboration opportunities.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/blog/privacy-policy/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/privacy-policy/</guid>
+      <description>How DotKsp Writings collects, uses, and protects your personal information.</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/blog/terms/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/terms/</guid>
+      <description>Terms and conditions for using DotKsp Writings.</description>
     </item>
   </channel>
 </rss>

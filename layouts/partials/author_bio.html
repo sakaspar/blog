@@ -1,0 +1,10 @@
+{{- /* Author Bio for EEAT - appears at bottom of single posts */ -}}
+{{- if and (not .Params.hideAuthorBio) (ne .Layout "search") (ne .Layout "archives") -}}
+<div class="author-bio">
+  <img class="author-bio-avatar" src="{{ "images/avatar.jpg" | absURL }}" alt="DotKsp" width="56" height="56" loading="lazy">
+  <div class="author-bio-content">
+    <p class="author-bio-name">DotKsp</p>
+    <p class="author-bio-text">Writer mapping the intersection of money, health, tech, and the habits that actually stick. Essays grounded in real experience, not hollow theory.</p>
+  </div>
+</div>
+{{- end -}}

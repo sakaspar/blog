@@ -2,180 +2,318 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55558/blog/tags/ai/</loc>
+    <loc>http://localhost:1313/blog/tags/ai/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/ai/</loc>
+    <loc>http://localhost:1313/blog/categories/ai/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/chatgpt/</loc>
+    <loc>http://localhost:1313/blog/tags/chatgpt/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/chatgpt-money-making/</loc>
+    <loc>http://localhost:1313/blog/chatgpt-made-me-1000-in-one-week-heres-the-exact-method/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/finance/</loc>
+    <loc>http://localhost:1313/blog/categories/finance/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/money/</loc>
+    <loc>http://localhost:1313/blog/tags/money/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/tech/</loc>
+    <loc>http://localhost:1313/blog/tags/tech/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/beauty/</loc>
+    <loc>http://localhost:1313/blog/tags/beauty/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/budget/</loc>
+    <loc>http://localhost:1313/blog/tags/budget/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/health/</loc>
+    <loc>http://localhost:1313/blog/categories/health/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/health/</loc>
+    <loc>http://localhost:1313/blog/tags/health/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/lifestyle/</loc>
+    <loc>http://localhost:1313/blog/categories/lifestyle/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/skincare/</loc>
+    <loc>http://localhost:1313/blog/tags/skincare/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/skincare-routine/</loc>
+    <loc>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/social-media-detox/</loc>
+    <loc>http://localhost:1313/blog/i-quit-social-media-for-90-days-heres-what-nobody-tells-you/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/lifestyle/</loc>
+    <loc>http://localhost:1313/blog/tags/lifestyle/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/mental-health/</loc>
+    <loc>http://localhost:1313/blog/categories/mental-health/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/mental-health/</loc>
+    <loc>http://localhost:1313/blog/tags/mental-health/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/productivity/</loc>
+    <loc>http://localhost:1313/blog/tags/productivity/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/social-media/</loc>
+    <loc>http://localhost:1313/blog/tags/social-media/</loc>
     <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/career/</loc>
+    <loc>http://localhost:1313/blog/tags/career/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/entrepreneurship/</loc>
+    <loc>http://localhost:1313/blog/categories/entrepreneurship/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/entrepreneurship/</loc>
+    <loc>http://localhost:1313/blog/tags/entrepreneurship/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/finance/</loc>
+    <loc>http://localhost:1313/blog/tags/finance/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/side-hustle/</loc>
+    <loc>http://localhost:1313/blog/tags/side-hustle/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/side-hustle-guide/</loc>
+    <loc>http://localhost:1313/blog/the-no-bs-guide-to-starting-a-side-hustle-in-2026-with-zero-money/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/budgeting/</loc>
+    <loc>http://localhost:1313/blog/tags/budgeting/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/diy/</loc>
+    <loc>http://localhost:1313/blog/tags/diy/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/home-decor/</loc>
+    <loc>http://localhost:1313/blog/tags/home-decor/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/apartment-decor-budget/</loc>
+    <loc>http://localhost:1313/blog/i-decorated-my-entire-apartment-for-150-full-photo-breakdown/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/investing/</loc>
+    <loc>http://localhost:1313/blog/tags/investing/</loc>
     <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/mindset/</loc>
+    <loc>http://localhost:1313/blog/tags/mindset/</loc>
     <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/saving-money-myths/</loc>
+    <loc>http://localhost:1313/blog/why-everything-you-know-about-saving-money-is-wrong/</loc>
     <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/successful-habits/</loc>
+    <loc>http://localhost:1313/blog/17-things-successful-people-do-before-8am-backed-by-research/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/habits/</loc>
+    <loc>http://localhost:1313/blog/tags/habits/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/productivity/</loc>
+    <loc>http://localhost:1313/blog/categories/productivity/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/research/</loc>
+    <loc>http://localhost:1313/blog/tags/research/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/success/</loc>
+    <loc>http://localhost:1313/blog/tags/success/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/challenge/</loc>
+    <loc>http://localhost:1313/blog/tags/challenge/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/fitness/</loc>
+    <loc>http://localhost:1313/blog/categories/fitness/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/fitness/</loc>
+    <loc>http://localhost:1313/blog/tags/fitness/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/pushups-challenge/</loc>
+    <loc>http://localhost:1313/blog/i-did-100-push-ups-every-day-for-60-days-my-body-before-and-after/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/transformation/</loc>
+    <loc>http://localhost:1313/blog/tags/transformation/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/morning-routine/</loc>
+    <loc>http://localhost:1313/blog/tags/morning-routine/</loc>
     <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/morning-routine/</loc>
+    <loc>http://localhost:1313/blog/the-morning-routine-nobody-talks-about-that-actually-works/</loc>
     <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/five-dollar-challenge/</loc>
+    <loc>http://localhost:1313/blog/i-lived-on-5-a-day-for-30-days-heres-what-i-learned/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/bitcoin/</loc>
+    <loc>http://localhost:1313/blog/tags/bitcoin/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/digital-gold/</loc>
+    <loc>http://localhost:1313/blog/bitcoin-at-30k40k-why-the-bear-market-is-the-real-opportunity/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/calisthenics/</loc>
+    <loc>http://localhost:1313/blog/tags/calisthenics/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/crypto/</loc>
+    <loc>http://localhost:1313/blog/tags/crypto/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/posts/home-workout/</loc>
+    <loc>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/web3/</loc>
+    <loc>http://localhost:1313/blog/tags/web3/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/categories/workout/</loc>
+    <loc>http://localhost:1313/blog/categories/workout/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/tags/workout/</loc>
+    <loc>http://localhost:1313/blog/tags/workout/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:55558/blog/search/</loc>
+    <loc>http://localhost:1313/blog/about/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/contact/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/privacy-policy/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/terms/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

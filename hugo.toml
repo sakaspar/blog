@@ -1,58 +1,94 @@
 baseURL = "https://sakaspar.github.io/blog/"
-locale = "en-us"
+locale = "en_US"
 title = "DotKsp Writings"
 theme = "PaperMod"
 buildFuture = true
 enableRobotsTXT = true
+googleAnalytics = "G-HB08RW5TT8"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 12
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[permalinks]
+  posts = "/:slug/"
 
 [params]
-  googleAnalytics = "G-HB08RW5TT8"
   env = "production"
   title = "DotKsp Writings"
-  description = "Thoughts on crypto, tech, fitness, and building things"
+  description = "The map they don't hand out. Essays on money, health, tech, fitness, and the habits that actually stick."
   author = "DotKsp"
+  keywords = ["personal finance", "fitness", "health", "productivity", "crypto", "AI", "self-improvement", "blog", "DotKsp"]
+
   defaultTheme = "auto"
+  disableThemeToggle = false
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowPageNums = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = false
 
-[params.fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = ["title", "permalink", "summary", "content"]
+  # Hide the default PaperMod footer text (we use custom)
+  [params.footer]
+    hideCopyright = false
+    text = ""
 
-[params.homeInfoParams]
-  Title = "DotKsp Writings"
-  Content = "The map they don't hand out. Essays on money, health, tech, and the habits that actually stick."
+  # AdSense - uncomment and add your full ad code when approved
+  # [params.adsense]
+  #   code = "ca-pub-XXXXXXXXXXXXXX"
 
-[[params.socialIcons]]
-  name = "x"
-  url = "https://x.com/Kasper_0927"
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
 
-[params.profileMode]
-  enabled = false
-  title = "DotKsp Writings"
-  subtitle = "The map they don't hand out."
-  imageUrl = "images/avatar.jpg"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "DotKsp"
+  [params.homeInfoParams]
+    Title = "DotKsp Writings"
+    Content = "The map they don't hand out. Essays on money, health, tech, and the habits that actually stick."
+
+[params.schema]
+  publisherType = "Person"
 
 [params.assets]
   disableHLJS = true
+  disableFingerprinting = false
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+  safari_pinned_tab = "safari-pinned-tab.svg"
+
+[params.label]
+    text = "DotKsp Writings"
+    icon = ""
+    iconHeight = 30
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/Kasper_0927"
+
+  [params.profileMode]
+    enabled = false
+    title = "DotKsp Writings"
+    subtitle = "The map they don't hand out."
+    imageUrl = "images/avatar.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "DotKsp"
 
 [[menu.main]]
   identifier = "posts"
@@ -67,11 +103,29 @@ enableRobotsTXT = true
   weight = 15
 
 [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 25
+
+[[menu.main]]
   identifier = "search"
   name = "Search"
   url = "/search/"
-  weight = 20
+  weight = 30
 
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+

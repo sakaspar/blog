@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ai on DotKsp Writings</title>
-    <link>http://localhost:55558/blog/tags/ai/</link>
+    <link>http://localhost:1313/blog/tags/ai/</link>
     <description>Recent content in Ai on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT Made Me $1,000 in One Week ; Here&#39;s the Exact Method</title>
-      <link>http://localhost:55558/blog/posts/chatgpt-money-making/</link>
+      <link>http://localhost:1313/blog/chatgpt-made-me-1000-in-one-week-heres-the-exact-method/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/chatgpt-money-making/</guid>
+      <guid>http://localhost:1313/blog/chatgpt-made-me-1000-in-one-week-heres-the-exact-method/</guid>
       <description>Everyone is talking about AI. Very few are actually using it to generate revenue. Here is how I did it.</description>
     </item>
   </channel>

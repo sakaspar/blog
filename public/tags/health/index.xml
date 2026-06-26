@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Health on DotKsp Writings</title>
-    <link>http://localhost:55558/blog/tags/health/</link>
+    <link>http://localhost:1313/blog/tags/health/</link>
     <description>Recent content in Health on DotKsp Writings</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55558/blog/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Skincare Routine That Cleared My Skin in 3 Weeks (Under $30)</title>
-      <link>http://localhost:55558/blog/posts/skincare-routine/</link>
+      <link>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/skincare-routine/</guid>
+      <guid>http://localhost:1313/blog/the-skincare-routine-that-cleared-my-skin-in-3-weeks-under-30/</guid>
       <description>Stop buying $100 serums. Your skin doesn&amp;#39;t need luxury : it needs consistency and chemistry.</description>
     </item>
     <item>
       <title>I Did 100 Push-Ups Every Day for 60 Days ; My Body Before and After</title>
-      <link>http://localhost:55558/blog/posts/pushups-challenge/</link>
+      <link>http://localhost:1313/blog/i-did-100-push-ups-every-day-for-60-days-my-body-before-and-after/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/pushups-challenge/</guid>
+      <guid>http://localhost:1313/blog/i-did-100-push-ups-every-day-for-60-days-my-body-before-and-after/</guid>
       <description>Sixty days. 6,000 push-ups. Here is what happened to my body : and my mind.</description>
     </item>
     <item>
       <title>The Morning Routine Nobody Talks About (That Actually Works)</title>
-      <link>http://localhost:55558/blog/posts/morning-routine/</link>
+      <link>http://localhost:1313/blog/the-morning-routine-nobody-talks-about-that-actually-works/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/morning-routine/</guid>
+      <guid>http://localhost:1313/blog/the-morning-routine-nobody-talks-about-that-actually-works/</guid>
       <description>Forget the 4 AM cold plunges and the 20-step skincare. This is the simple, contrarian routine that actually moves the needle.</description>
     </item>
     <item>
       <title>The No-Excuse Home Workout: Zero Equipment, Maximum Results</title>
-      <link>http://localhost:55558/blog/posts/home-workout/</link>
+      <link>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55558/blog/posts/home-workout/</guid>
+      <guid>http://localhost:1313/blog/the-no-excuse-home-workout-zero-equipment-maximum-results/</guid>
       <description>No gym membership. No equipment. No excuses. A complete bodyweight routine you can do in your living room.</description>
     </item>
   </channel>
