@@ -1,24 +1,9 @@
 {{ if .IsHome }}
-<script>
-  const bar = document.createElement('div');
-  bar.className = 'categories-bar';
-  bar.style.cssText = 'display:flex;flex-wrap:wrap;gap:10px;margin:1.5rem 0 2rem;padding:1rem 0;border-bottom:1px solid var(--border);';
-  const cats = [
-    { name: 'Crypto', url: '/blog/categories/crypto/' },
-    { name: 'Finance', url: '/blog/categories/finance/' },
-    { name: 'Workout', url: '/blog/categories/workout/' },
-    { name: 'Beauty', url: '/blog/categories/beauty/' },
-    { name: 'Home Decor', url: '/blog/categories/home-decor/' },
-    { name: 'Coding', url: '/blog/categories/coding/' },
-  ];
-  cats.forEach(c => {
-    const a = document.createElement('a');
-    a.href = c.url;
-    a.textContent = c.name;
-    a.style.cssText = 'padding:6px 18px;border-radius:999px;background:var(--code-bg);color:var(--primary);font-size:0.85rem;font-weight:500;text-decoration:none;border:1px solid var(--border);';
-    bar.appendChild(a);
-  });
-  const main = document.querySelector('.post-entry') || document.querySelector('#content') || document.querySelector('main');
-  if (main) main.parentNode.insertBefore(bar, main);
-</script>
+<div class="categories-bar">
+  {{ range $name, $pages := .Site.Taxonomies.categories }}
+  <a href="{{ "/categories/" | absURL }}{{ $name | urlize }}/" class="cat-pill">
+    {{ $name }} <span>{{ len $pages }}</span>
+  </a>
+  {{ end }}
+</div>
 {{ end }}
