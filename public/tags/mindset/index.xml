@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mindset on DotKsp Writings</title>
+    <link>http://localhost:55558/blog/tags/mindset/</link>
+    <description>Recent content in Mindset on DotKsp Writings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/mindset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Everything You Know About Saving Money Is Wrong</title>
+      <link>http://localhost:55558/blog/posts/saving-money-myths/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/saving-money-myths/</guid>
+      <description>The &amp;#39;latte factor&amp;#39; is a lie. Saving pennies won&amp;#39;t make you rich. Here is the truth about wealth.</description>
+    </item>
+  </channel>
+</rss>

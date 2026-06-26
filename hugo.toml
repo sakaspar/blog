@@ -2,13 +2,20 @@ baseURL = "https://sakaspar.github.io/blog/"
 locale = "en-us"
 title = "DotKsp Writings"
 theme = "PaperMod"
-paginate = 5
+buildFuture = true
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 12
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
-  googleAnalytics = "G-HB08RW5TT8"  
+  googleAnalytics = "G-HB08RW5TT8"
   env = "production"
   title = "DotKsp Writings"
-  description = "Thoughts on crypto, tech, and building things"
+  description = "Thoughts on crypto, tech, fitness, and building things"
   author = "DotKsp"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -16,10 +23,20 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowPageNums = true
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
 
 [params.homeInfoParams]
   Title = "DotKsp Writings"
-  Content = "The map they don't hand out."
+  Content = "The map they don't hand out. Essays on money, health, tech, and the habits that actually stick."
 
 [[params.socialIcons]]
   name = "x"
@@ -33,7 +50,6 @@ enableRobotsTXT = true
   imageWidth = 120
   imageHeight = 120
   imageTitle = "DotKsp"
-
 
 [params.assets]
   disableHLJS = true
@@ -49,6 +65,12 @@ enableRobotsTXT = true
   name = "Categories"
   url = "/categories/"
   weight = 15
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 20
 
 [taxonomies]
   category = "categories"

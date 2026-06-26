@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Money on DotKsp Writings</title>
+    <link>http://localhost:55558/blog/tags/money/</link>
+    <description>Recent content in Money on DotKsp Writings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/money/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT Made Me $1,000 in One Week — Here&#39;s the Exact Method</title>
+      <link>http://localhost:55558/blog/posts/chatgpt-money-making/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/chatgpt-money-making/</guid>
+      <description>Everyone is talking about AI. Very few are actually using it to generate revenue. Here is how I did it.</description>
+    </item>
+    <item>
+      <title>Why Everything You Know About Saving Money Is Wrong</title>
+      <link>http://localhost:55558/blog/posts/saving-money-myths/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/saving-money-myths/</guid>
+      <description>The &amp;#39;latte factor&amp;#39; is a lie. Saving pennies won&amp;#39;t make you rich. Here is the truth about wealth.</description>
+    </item>
+  </channel>
+</rss>

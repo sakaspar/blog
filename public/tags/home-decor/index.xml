@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home-Decor on DotKsp Writings</title>
+    <link>http://localhost:55558/blog/tags/home-decor/</link>
+    <description>Recent content in Home-Decor on DotKsp Writings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/home-decor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Decorated My Entire Apartment for $150 — Full Photo Breakdown</title>
+      <link>http://localhost:55558/blog/posts/apartment-decor-budget/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/apartment-decor-budget/</guid>
+      <description>You don&amp;#39;t need a designer budget to have a designer space. Here is how I did it for the price of one night out.</description>
+    </item>
+  </channel>
+</rss>

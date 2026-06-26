@@ -1,9 +1,16 @@
-{{ if .IsHome }}
-<div class="categories-bar">
-  {{ range $name, $pages := .Site.Taxonomies.categories }}
-  <a href="{{ "/categories/" | absURL }}{{ $name | urlize }}/" class="cat-pill">
-    {{ $name }} <span>{{ len $pages }}</span>
-  </a>
-  {{ end }}
-</div>
-{{ end }}
+<div id="reading-progress" aria-hidden="true"></div>
+<button id="back-to-top" type="button" aria-label="Back to top" title="Back to top">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+{{- $blogJS := resources.Get "js/blog.js" -}}
+{{- if $blogJS -}}
+{{- if hugo.IsProduction -}}
+{{- $blogJS = $blogJS | minify | fingerprint -}}
+<script defer src="{{ $blogJS.RelPermalink }}" integrity="{{ $blogJS.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- else -}}
+<script defer src="{{ $blogJS.RelPermalink }}"></script>
+{{- end -}}
+{{- end -}}

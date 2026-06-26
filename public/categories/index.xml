@@ -2,10 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on DotKsp Writings</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:55558/blog/categories/</link>
     <description>Recent content in Categories on DotKsp Writings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:55558/blog/categories/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:55558/blog/categories/finance/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:55558/blog/categories/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:55558/blog/categories/lifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:55558/blog/categories/mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://localhost:55558/blog/categories/entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:55558/blog/categories/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>http://localhost:55558/blog/categories/fitness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workout</title>
+      <link>http://localhost:55558/blog/categories/workout/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/categories/workout/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

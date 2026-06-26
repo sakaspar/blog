@@ -1,0 +1,21 @@
+{{- $pages := .pages -}}
+{{- $site := .site -}}
+{{- $totalPosts := len (where $site.RegularPages "Section" "posts") -}}
+{{- $categories := $site.Taxonomies.categories -}}
+
+<div class="home-toolbar">
+  <div class="home-stats">
+    <span class="stat-pill"><strong>{{ $totalPosts }}</strong> posts</span>
+    <span class="stat-pill"><strong>{{ len $categories }}</strong> topics</span>
+    <span class="stat-pill stat-pill--muted" id="visible-count"><strong>{{ len $pages }}</strong> showing</span>
+  </div>
+
+  <div class="category-filter" role="group" aria-label="Filter posts by category">
+    <button type="button" class="cat-pill cat-pill--active" data-filter="all" aria-pressed="true">All</button>
+    {{- range $name, $termPages := $categories -}}
+    <button type="button" class="cat-pill" data-filter="{{ $name | urlize }}" aria-pressed="false">
+      {{ $name }} <span>{{ len $termPages }}</span>
+    </button>
+    {{- end -}}
+  </div>
+</div>

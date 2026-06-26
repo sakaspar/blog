@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on DotKsp Writings</title>
+    <link>http://localhost:55558/blog/tags/productivity/</link>
+    <description>Recent content in Productivity on DotKsp Writings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Quit Social Media for 90 Days — Here&#39;s What Nobody Tells You</title>
+      <link>http://localhost:55558/blog/posts/social-media-detox/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/social-media-detox/</guid>
+      <description>I deleted every app for three months. I didn&amp;#39;t find &amp;#39;inner peace&amp;#39; immediately : I found something much more uncomfortable.</description>
+    </item>
+    <item>
+      <title>17 Things Successful People Do Before 8AM (Backed by Research)</title>
+      <link>http://localhost:55558/blog/posts/successful-habits/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/successful-habits/</guid>
+      <description>Success isn&amp;#39;t an accident : it&amp;#39;s a series of choices made before the world starts screaming for your attention.</description>
+    </item>
+    <item>
+      <title>The Morning Routine Nobody Talks About (That Actually Works)</title>
+      <link>http://localhost:55558/blog/posts/morning-routine/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/morning-routine/</guid>
+      <description>Forget the 4 AM cold plunges and the 20-step skincare. This is the simple, contrarian routine that actually moves the needle.</description>
+    </item>
+  </channel>
+</rss>

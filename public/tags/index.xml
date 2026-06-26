@@ -2,10 +2,242 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on DotKsp Writings</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:55558/blog/tags/</link>
     <description>Recent content in Tags on DotKsp Writings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:55558/blog/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatgpt</title>
+      <link>http://localhost:55558/blog/tags/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Money</title>
+      <link>http://localhost:55558/blog/tags/money/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/money/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:55558/blog/tags/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beauty</title>
+      <link>http://localhost:55558/blog/tags/beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/beauty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budget</title>
+      <link>http://localhost:55558/blog/tags/budget/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/budget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:55558/blog/tags/health/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skincare</title>
+      <link>http://localhost:55558/blog/tags/skincare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/skincare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:55558/blog/tags/lifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental-Health</title>
+      <link>http://localhost:55558/blog/tags/mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:55558/blog/tags/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social-Media</title>
+      <link>http://localhost:55558/blog/tags/social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>http://localhost:55558/blog/tags/career/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://localhost:55558/blog/tags/entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:55558/blog/tags/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side-Hustle</title>
+      <link>http://localhost:55558/blog/tags/side-hustle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/side-hustle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budgeting</title>
+      <link>http://localhost:55558/blog/tags/budgeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/budgeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diy</title>
+      <link>http://localhost:55558/blog/tags/diy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home-Decor</title>
+      <link>http://localhost:55558/blog/tags/home-decor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/home-decor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investing</title>
+      <link>http://localhost:55558/blog/tags/investing/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/investing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindset</title>
+      <link>http://localhost:55558/blog/tags/mindset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/mindset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habits</title>
+      <link>http://localhost:55558/blog/tags/habits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/habits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:55558/blog/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Success</title>
+      <link>http://localhost:55558/blog/tags/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/success/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Challenge</title>
+      <link>http://localhost:55558/blog/tags/challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/challenge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>http://localhost:55558/blog/tags/fitness/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformation</title>
+      <link>http://localhost:55558/blog/tags/transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morning-Routine</title>
+      <link>http://localhost:55558/blog/tags/morning-routine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/morning-routine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitcoin</title>
+      <link>http://localhost:55558/blog/tags/bitcoin/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calisthenics</title>
+      <link>http://localhost:55558/blog/tags/calisthenics/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/calisthenics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crypto</title>
+      <link>http://localhost:55558/blog/tags/crypto/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:55558/blog/tags/web3/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workout</title>
+      <link>http://localhost:55558/blog/tags/workout/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/tags/workout/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

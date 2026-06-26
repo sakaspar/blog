@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lifestyle on DotKsp Writings</title>
+    <link>http://localhost:55558/blog/tags/lifestyle/</link>
+    <description>Recent content in Lifestyle on DotKsp Writings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55558/blog/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Quit Social Media for 90 Days — Here&#39;s What Nobody Tells You</title>
+      <link>http://localhost:55558/blog/posts/social-media-detox/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/social-media-detox/</guid>
+      <description>I deleted every app for three months. I didn&amp;#39;t find &amp;#39;inner peace&amp;#39; immediately : I found something much more uncomfortable.</description>
+    </item>
+    <item>
+      <title>I Decorated My Entire Apartment for $150 — Full Photo Breakdown</title>
+      <link>http://localhost:55558/blog/posts/apartment-decor-budget/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/apartment-decor-budget/</guid>
+      <description>You don&amp;#39;t need a designer budget to have a designer space. Here is how I did it for the price of one night out.</description>
+    </item>
+    <item>
+      <title>The Morning Routine Nobody Talks About (That Actually Works)</title>
+      <link>http://localhost:55558/blog/posts/morning-routine/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/morning-routine/</guid>
+      <description>Forget the 4 AM cold plunges and the 20-step skincare. This is the simple, contrarian routine that actually moves the needle.</description>
+    </item>
+    <item>
+      <title>I Lived on $5 a Day for 30 Days — Here&#39;s What I Learned</title>
+      <link>http://localhost:55558/blog/posts/five-dollar-challenge/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55558/blog/posts/five-dollar-challenge/</guid>
+      <description>I lived on $5 a day for a month. It wasn&amp;#39;t about the money : it was about the control.</description>
+    </item>
+  </channel>
+</rss>
