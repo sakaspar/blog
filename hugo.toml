@@ -5,6 +5,7 @@ theme = "PaperMod"
 paginate = 5
 enableRobotsTXT = true
 [params]
+  googleAnalytics = "G-HB08RW5TT8"  
   env = "production"
   title = "DotKsp Writings"
   description = "Thoughts on crypto, tech, and building things"
