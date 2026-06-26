@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params.homeInfoParams]
   Title = "DotKsp Writings"
-  Content = "NaN"
+  Content = "The map they don't hand out."
 
 [[params.socialIcons]]
   name = "x"
