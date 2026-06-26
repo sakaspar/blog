@@ -1,9 +1,9 @@
 baseURL = "https://sakaspar.github.io/blog/"
-languageCode = "en-us"
+locale = "en-us"
 title = "DotKsp Writings"
 theme = "PaperMod"
 paginate = 5
-
+enableRobotsTXT = true
 [params]
   env = "production"
   title = "DotKsp Writings"
@@ -23,6 +23,16 @@ paginate = 5
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/sakaspar"
+
+[params.profileMode]
+  enabled = true
+  title = "DotKsp Writings"
+  subtitle = "Crypto · Tech · Building from Tunisia 🇹🇳"
+  imageUrl = "images/avatar.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Hamza"
+
 
 [params.assets]
   disableHLJS = true

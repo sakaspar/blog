@@ -4,15 +4,17 @@ date = 2026-06-26
 draft = false
 tags = ["bitcoin", "crypto", "investing", "web3"]
 description = "BTC isn't just another crypto — it's the godfather. And if it drops to $30K–$40K, here's why that's not a crisis. It's an invitation."
-author = "Hamza"
+author = "dotksp"
 showToc = true
 TocOpen = false
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
-cover:
-    alt = "Bitcoin — digital gold"
-    relative = false
+[cover]
+  image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
+  alt = "Bitcoin logo"
+  caption = "The godfather of crypto"
+  relative = false
 +++
 
 There's a version of Bitcoin's story that most people miss because they only show up during the bull runs.
