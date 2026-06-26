@@ -1,4 +1,40 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'DotKsp Writings'
+baseURL = "https://sakaspar.github.io/blog/"
+languageCode = "en-us"
+title = "DotKsp Writings"
 theme = "PaperMod"
+paginate = 5
+
+[params]
+  env = "production"
+  title = "DotKsp Writings"
+  description = "Thoughts on crypto, tech, and building things"
+  author = "DotKsp"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "DotKsp Writings"
+  Content = "NaN"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/sakaspar"
+
+[params.assets]
+  disableHLJS = true
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
