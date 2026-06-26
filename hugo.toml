@@ -21,8 +21,8 @@ enableRobotsTXT = true
   Content = "NaN"
 
 [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/sakaspar"
+  name = "x"
+  url = "https://x.com/Kasper_0927"
 
 [params.profileMode]
   enabled = true
