@@ -27,7 +27,7 @@ enableRobotsTXT = true
 [params.profileMode]
   enabled = true
   title = "DotKsp Writings"
-  subtitle = "Crypto · Tech · Building from Tunisia 🇹🇳"
+  subtitle = "The map they don't hand out."
   imageUrl = "images/avatar.jpg"
   imageWidth = 120
   imageHeight = 120
