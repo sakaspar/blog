@@ -3,6 +3,7 @@ title = "Bitcoin at $30K–$40K: Why the Bear Market Is the Real Opportunity"
 date = 2026-06-26
 draft = false
 tags = ["bitcoin", "crypto", "investing", "web3"]
+categories = ["Finance"]
 description = "BTC isn't just another crypto : it's the godfather. And if it drops to $30K–$40K, here's why that's not a crisis. It's an invitation."
 author = "DotKsp"
 showToc = true

@@ -3,6 +3,7 @@ title = "The No-Excuse Home Workout: Zero Equipment, Maximum Results"
 date = 2026-06-26
 draft = false
 tags = ["fitness", "workout", "health", "calisthenics"]
+categories = ["Workout"]
 description = "No gym membership. No equipment. No excuses. A complete bodyweight routine you can do in your living room."
 author = "Hamza"
 showToc = true

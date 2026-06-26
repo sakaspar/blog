@@ -1,0 +1,7 @@
+<div class="categories-bar">
+  {{ range .Site.Taxonomies.categories.ByCount }}
+  <a href="{{ "/categories/" | relURL }}{{ .Page.Title | urlize }}/" class="cat-pill">
+    {{ .Page.Title }} <span>{{ .Count }}</span>
+  </a>
+  {{ end }}
+</div>

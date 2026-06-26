@@ -45,7 +45,11 @@ enableRobotsTXT = true
   weight = 10
 
 [[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 15
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
