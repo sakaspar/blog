@@ -1,0 +1,30 @@
+{{ if .IsHome }}
+<style>
+.categories-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.cat-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 16px;
+  border-radius: 999px;
+  background: var(--code-bg);
+  color: var(--primary);
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+.cat-pill:hover {
+  background: var(--primary);
+  color: var(--theme);
+}
+</style>
+{{ end }}
